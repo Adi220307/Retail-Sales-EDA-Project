@@ -34,13 +34,6 @@ This project performs Exploratory Data Analysis (EDA) on a retail sales dataset 
 
 ---
 
-## 📁 Files in Repository
-- Retail_Sales_EDA_Project.ipynb
-- Processed_Retail_Data.csv
-- README.md
-
----
-
 ## 📌 Dataset Source
 Superstore Retail Dataset
 
